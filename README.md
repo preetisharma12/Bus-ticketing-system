@@ -5,7 +5,7 @@ A Web-based Bus Ticket Booking and Management Application designed for managing 
 ## Project Overview
 The main objective of this Java Web Application is to streamline and automate bus ticket booking and sales administration. It provides administrative controls to handle customer records, manage bus schedules, track ticket bookings, and log sales transactions efficiently.
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Language:** Java, JSP, HTML, CSS, JavaScript, AJAX, jQuery
 * **Database:** MySQL (`database.sql`)
 * **IDE:** Eclipse IDE for Enterprise Java and Web Developers (Eclipse JEE)
@@ -13,7 +13,7 @@ The main objective of this Java Web Application is to streamline and automate bu
 
 ---
 
-## 🚀 How to Setup and Run the Project
+## How to Setup and Run the Project
 
 ### Prerequisites
 1. [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/packages/) installed.
