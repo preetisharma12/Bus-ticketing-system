@@ -7,7 +7,7 @@ the details about the Customer, Booking, Ticket Booking.
 
 Java, JSP and MySQL Project on Bus Ticket Booking System
 
-Developed By : Md Rukon Shekh
+
 Language : Java,Jsp,HTML,CSS,Javascript,html,css,ajax,jquery,mysql
 IDE : Eclipse Jee
 Server: tomcat
